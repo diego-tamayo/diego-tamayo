@@ -1,4 +1,4 @@
-# ¡Hola, soy Diego Fernando Tamayo Henao! 👋  
+# ¡Hola, soy Diego Tamayo! 👋  
 
 ![Banner](https://github.com/diego-tamayo/diego-tamayo/blob/main/DALL%C2%B7E2025-03.png)  
 
