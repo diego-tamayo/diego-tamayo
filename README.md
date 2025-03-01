@@ -1,6 +1,6 @@
 # ¡Hola, soy Diego Fernando Tamayo Henao! 👋  
 
-![Banner](https://your-banner-url.com/banner.png)  
+![Banner]([https://your-banner-url.com/banner.png](https://github.com/diego-tamayo/diego-tamayo/blob/main/DALL%C2%B7E2025-03.webp))  
 
 ### 🚀 Sobre mí  
 💻 Desarrollador web apasionado por la tecnología.  
