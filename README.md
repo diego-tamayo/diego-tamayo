@@ -25,8 +25,7 @@
 ![Phaser](https://img.shields.io/badge/Phaser-007ACC?style=for-the-badge&logo=phaser&logoColor=white)  ![Tiled](https://img.shields.io/badge/Tiled-FFCC00?style=for-the-badge&logo=Tiled&logoColor=black)  
 ![GDevelop](https://img.shields.io/badge/GDevelop-0080FF?style=for-the-badge&logo=gdevelop&logoColor=white)  
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)  ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)  
-
-
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 
 ### 📊 Estadísticas de GitHub  
